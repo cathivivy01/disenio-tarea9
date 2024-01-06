@@ -10,7 +10,7 @@ body{
 .resetear{
     width: 100vw;
     height: 100vh;
-    font-size: 15rem;
+    font-size: 15vw;
     background-color: blue;
     display: none;
 }
