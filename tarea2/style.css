@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+.parar{
+    width: 100vw;
+    height: 100vh;
+    font-size: 15rem;
+    background-color: red;
+}
+.resetear{
+    width: 100vw;
+    height: 100vh;
+    font-size: 15rem;
+    background-color: blue;
+    display: none;
+}
